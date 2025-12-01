@@ -1,4 +1,4 @@
-l## Hi there 👋
+## Hi there 👋
 
 <!--
 **PelicanP/PelicanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I'm Muhammad, thanks for checking my profile.
+
+#### I'm currently a second year Earth Sciences student in University of Edinburgh.
+
+#### I usually do data analysis on geoscience topic using python although I'm still a beginner and has a lot to learn.
